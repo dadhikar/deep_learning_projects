@@ -1,1 +1,1 @@
-Developing Deep learning model and training them on differnt datasets
+Desiging deep learning models and training them on differnt datasets
